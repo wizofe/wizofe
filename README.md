@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to "MySpace" (just showed my age)
+### Hi there 👋 Welcome to "MySpace" (ups, just revealed my age 😏)
 
 - 🔭 I’m currently working on Deep Learning for Coronary Magnetic Resonance Angiography (CMRA) image reconstruction. We are using cardiac MRI, which is a way to image people's hearts 💖💖💖 without using radiation. We try to do this in the fastest and most optimal way, so that they're happy without staying long in the scanner and the clinical workflow is efficient.
 
