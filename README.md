@@ -2,7 +2,7 @@
 
 - 🔭 PhD Candidate in King's College London in the Instute of Psychology, Psychiatry and Neuroscience (IoPPN) and Biomedical and Medical Imaging Sciences (BMEIS). My key goal is to discover phenotypical relations for Autism Spectrum Disorder (ASD) in neonatals using fMRI techniques! That is using baby scans with deep learning methods to discover if there are any phenotypical relations that can help with signifying autism in a very young age! Exciting!
 
-- 🌱 Learning Julia the aim is to unify my workflow with it (or Python)!
+- 🌱 Learning Julia the aim is to unify my workflow with it (or Python)! Good knowledge of R and C++, if needed.
 
 - 🤝🏽 I’m looking to collaborate with great people on interesting problems in the deep learning and medical imaging community, especially related to ADHD and Autism/ASD.
 
